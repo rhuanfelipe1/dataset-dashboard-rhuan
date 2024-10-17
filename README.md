@@ -35,7 +35,7 @@ pip install dash dash-bootstrap-components pandas plotly
 3. Run the Application
 Once the dependencies are installed, you can run the app using the following command:
 
-python app.py
+python python sales_dashboard_improved.py
 This will start a local web server. Open your browser and navigate to http://127.0.0.1:8050/ to view the dashboard.
 
 4. Data Requirements
